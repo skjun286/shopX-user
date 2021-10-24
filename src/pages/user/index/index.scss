@@ -1,0 +1,26 @@
+@import "~taro-ui/dist/style/components/list.scss";
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/divider.scss";
+@import "~taro-ui/dist/style/components/flex.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+@import "~taro-ui/dist/style/components/tag.scss";
+@import "~taro-ui/dist/style/components/avatar.scss";
+
+.userIndexPage {
+
+  .log-in-outWrap {
+    display: flex;
+    margin-top: 30px;
+  }
+  
+  .userInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+
+    .at-avatar {
+      margin-left: 30px;
+    }
+  }
+}

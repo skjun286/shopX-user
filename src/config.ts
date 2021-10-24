@@ -1,0 +1,1 @@
+export const baseUrl = 'http://shop-x.zjy/api/front'
